@@ -10,7 +10,7 @@ The app is built on **[SceneView](https://github.com/SceneView/sceneview-android
 - **Efficiency:** Filament is designed for mobile-first PBR, offering superior performance compared to heavier engines like Unity or Unreal.
 - **Compose Native:** Seamless integration with Jetpack Compose prevents unnecessary UI overhead.
 
-## ⚡ Performance Optimizations (Low-End Focus)
+## Performance Optimizations (Low-End Focus)
 
 To ensure smooth 60fps on weak hardware, the following strategies were implemented:
 
